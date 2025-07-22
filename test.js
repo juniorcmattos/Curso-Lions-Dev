@@ -1,3 +1,0 @@
-readline = requestAnimationFrame
-
-//teste
