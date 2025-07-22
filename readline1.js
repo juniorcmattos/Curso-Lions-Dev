@@ -18,4 +18,6 @@ const rl = readline.createInterface({
 
 console.log('=== CALCULADORA DE APOSENTADORIA ===')
 
-rl.question('Digite a sua idade: ')
+rl.question('Digite a sua idade: '), (idade) => {
+const idade = parseFloat(idade)
+};
